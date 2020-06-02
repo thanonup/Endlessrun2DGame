@@ -2,7 +2,7 @@
 
 GAME ON WEB : https://simmer.io/@Ba4met/runyeah
 
-![](https://media.discordapp.net/attachments/406062303897714709/717338331867774996/Endlessrun.png?width=595&height=595)
+![](https://media.discordapp.net/attachments/406062303897714709/717338712635342908/Endlessrun.png?width=595&height=595)
 
 Game Preview.
 
