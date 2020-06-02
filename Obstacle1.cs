@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Obstacle1 : MonoBehaviour
 {
-    public int damage = 1;
+    public int damage = 0;
     public float speed;
     public GameObject fx;
     public SPF spf;
